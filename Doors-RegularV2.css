@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'doors';
+    src: url('https://raw.githubusercontent.com/LizardRush/Fontify/main/Doors-RegularV2.ttf') format('truetype');
+}
+
+* {
+    font-family: 'doors', Arial, Helvetica, sans-serif !important;
+}
